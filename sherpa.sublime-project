@@ -1,0 +1,20 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"*.sublime-project",
+				"*.sublime-workspace",
+				"Gemfile.lock",
+				"*.gem"
+			],
+			"folder_exclude_patterns":
+			[
+				".bundle",
+				"pkg"
+			],
+			"path": "."
+		}
+	]
+}
